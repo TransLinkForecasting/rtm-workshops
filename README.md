@@ -1,11 +1,9 @@
 # RTM Stakeholder Workshops
 
-----
 ## What is the RTM?
 
 The Greater Vancouver Regional Travel Model (RTM) is a four-step travel demand model developed and maintained by the South Coast British Columbia Transportation Authority (also known as TransLink).
 
-----
 ## RTM Workshops
 TransLink organizes workshops for transportation professionals and agencies in the Metro Vancouver region. You can download the content used in the latest workshops from this repository.
 
